@@ -10,3 +10,6 @@ trip@elvis:~> comma
 1234567
 1,234,567
 ```
+
+* set_docker_env.sh - This, executed with and alias 'dockerup' in tanduem with
+the start of my VBox vm, sets up my env for docker development
