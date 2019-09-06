@@ -2,7 +2,7 @@
 
 while True:
     try:
-        n = int(raw_input())
+        n = int(input())
         print("{:,}".format(n))
         break
     except ValueError:
